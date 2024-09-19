@@ -1,0 +1,1 @@
+export { default as ThemedFlatList } from './src/Comp/ThemedFlatList';
